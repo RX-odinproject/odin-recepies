@@ -1,1 +1,1 @@
-# odin-recepies
+# odin-recepies web page project
